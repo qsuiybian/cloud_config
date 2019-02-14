@@ -1,1 +1,6 @@
-
+example.property: "I AM IN THE DEV"
+spring.jpa.show-sql: "true"
+spring.database.driverClassName: "com.mysql.jdbc.Driver"
+spring.datasource.url: "mysql://localhost:3306/cloud_config"
+spring.datasource.username: "root"
+spring.datasource.password: "gqy"
