@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT"
+example.property: "I AM IN THE DEF"
 spring.jpa.show-sql: "true"
 spring.database.driverClassName: "com.mysql.jdbc.Driver"
 spring.datasource.url: "mysql://localhost:3306/cloud_config"
